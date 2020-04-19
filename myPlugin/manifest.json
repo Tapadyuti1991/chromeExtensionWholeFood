@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "My Cool WholeFoodPlugin",
+    "version": "0.1",
+    "content_scripts": [
+  {
+    "matches": [
+      "https://www.amazon.com/gp/buy/shipoptionselect/handlers/*"
+    ],
+    "js": ["content.js"]
+  }
+]
+  }
