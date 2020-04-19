@@ -2,8 +2,7 @@
 Whole Food Store Pick Up Notification on Chrome Browser
 
 **Instructions**
->Download the two files from myPlugin folder: manifestcontent.js and manifest.js
-in a folder. and follow the below steps:
+>Download the two files from myPlugin folder: manifestcontent.js and manifest.js  and place in a new folder and follow the below steps:
 ```
 1.type chrome://extensions/ in chrome Browser
 ```
