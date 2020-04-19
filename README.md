@@ -2,7 +2,7 @@
 Whole Food Store Pick Up Notification on Chrome Browser
 
 **Instructions**
->Download the two files from: manifestcontent.js and manifest.js
+>Download the two files from myPlugin folder: manifestcontent.js and manifest.js
 in a folder. and follow the below steps:
 ```
 1.type chrome://extensions/ in chrome Browser
@@ -11,7 +11,7 @@ in a folder. and follow the below steps:
 ```
 2.enable developer mode by toggling on right hand side in chrome extension
 ```
-
+![](step1.png)
 ```
 3.Click on Load unpacked
 ```
@@ -25,9 +25,11 @@ in a folder. and follow the below steps:
 ```
 ![](Step4.png)
 ```
-6.Go to page amazon cart page
+```
+6.Go to page amazon Schedule your Order Page
 ```
 ![](Step5.png)
 
 If slots are unavailable, it will reload the page after 1 minute to check continuosly.
+
 It would alarm you in every minute when the slots are avaliable.
