@@ -6,7 +6,7 @@ Whole Food Store Pick Up Notification on Chrome Browser
 ```
 1.type chrome://extensions/ in chrome Browser
 ```
-![](Annotation%202020-04-18%20205147.png)
+![](instructionScreenshot/Annotation%202020-04-18%20205147.png)
 ```
 2.enable developer mode by toggling on right hand side in chrome extension
 ```
