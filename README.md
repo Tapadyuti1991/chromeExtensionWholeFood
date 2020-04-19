@@ -25,10 +25,10 @@ Whole Food Store Pick Up Notification on Chrome Browser
 ![](instructionScreenshot/Step4.png)
 
 ```
-6.Go to page amazon Schedule your Order Page
+6.Go to page amazon Schedule your Order Page and click on the page anywhere , just dont click on any button) and keep the page open.
 ```
 ![](instructionScreenshot/Step5.png)
 
-If slots are unavailable, it will reload the page after 1 minute to check continuosly.
+If slots are unavailable, the page will automatically reload the page after 1 minute to check continuosly.
 
 It would alarm you in every minute when the slots are avaliable.
