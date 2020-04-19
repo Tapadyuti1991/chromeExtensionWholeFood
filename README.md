@@ -10,24 +10,24 @@ Whole Food Store Pick Up Notification on Chrome Browser
 ```
 2.enable developer mode by toggling on right hand side in chrome extension
 ```
-![](step1.png)
+![](instructionScreenshot/step1.png)
 ```
 3.Click on Load unpacked
 ```
-![](step2.png)
+![](instructionScreenshot/step2.png)
 ```
 4.Select your folder where these two files are present
 ```
-![](Step3.png)
+![](instructionScreenshot/Step3.png)
 ```
 5.Reload and enable the extension
 ```
-![](Step4.png)
+![](instructionScreenshot/Step4.png)
 
 ```
 6.Go to page amazon Schedule your Order Page
 ```
-![](Step5.png)
+![](instructionScreenshot/Step5.png)
 
 If slots are unavailable, it will reload the page after 1 minute to check continuosly.
 
