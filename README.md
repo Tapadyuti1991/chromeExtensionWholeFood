@@ -32,3 +32,7 @@ Whole Food Store Pick Up Notification on Chrome Browser
 If slots are unavailable, the page will automatically reload the page after 1 minute to check continuosly.
 
 It would alarm you in every minute when the slots are avaliable.
+
+Let me know for any bugs. 
+
+**Stay Home Stay Safe**
