@@ -23,7 +23,7 @@ Whole Food Store Pick Up Notification on Chrome Browser
 5.Reload and enable the extension
 ```
 ![](Step4.png)
-```
+
 ```
 6.Go to page amazon Schedule your Order Page
 ```
